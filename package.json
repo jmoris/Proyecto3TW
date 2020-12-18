@@ -1,0 +1,21 @@
+{
+  "name": "proyecto3tw",
+  "version": "1.0.0",
+  "description": "Proyecto 3 WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "ws",
+    "express",
+    "tecnologiasweb"
+  ],
+  "author": "Jesus Moris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.1"
+  }
+}
