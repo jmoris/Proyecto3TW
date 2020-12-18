@@ -1,4 +1,4 @@
-const connection = new WebSocket('ws://localhost:8080');
+const connection = new WebSocket('ws://proyectotw3.herokuapp.com:8080');
 
 connection.onopen = () => {
   console.log('connected');
